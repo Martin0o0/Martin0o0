@@ -23,6 +23,8 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 
 <img src="https://img.shields.io/badge/-Spring%20Boot-green"/> <img src="https://img.shields.io/badge/-JPA-lightgrey"/>
 <img src="https://img.shields.io/badge/-Spring%20Security-green"/>
+<img src="https://img.shields.io/badge/-Junit5-yellowgreen"/>
+<img src="https://img.shields.io/badge/-Junit5-yellowgreen"/>
 
 ## View-Template-Engine
 
@@ -36,7 +38,8 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 <img src="https://img.shields.io/badge/-MySQL-orange"/>
 <img src="https://img.shields.io/badge/-H2-grey"/>
 <img src="https://img.shields.io/badge/-Redis-red"/>
-
+<img src="https://img.shields.io/badge/-AWS EC2-black"/>
+<img src="https://img.shields.io/badge/-AWS RDS-black"/>
 ## Operating System
 
 <img src="https://img.shields.io/badge/-MacOS(MacBook pro 14)-black"/>
