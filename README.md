@@ -31,7 +31,7 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 <img src="https://img.shields.io/badge/-Xcode-black"/>
 <img src="https://img.shields.io/badge/-MySQL-orange"/>
 
-##Operating System
+## Operating System
 
 <img src="https://img.shields.io/badge/-MacOS(MacBook pro 14)-black"/>
 
