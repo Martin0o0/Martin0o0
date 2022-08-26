@@ -7,9 +7,9 @@ My name is Hyunyeong-Choi, and i'm using Martin as my nickname.
 Currently, I am studying computer science at Kyung Hee University and studying hard to become a backend developer.
 
 
-Tech Stacks
-</hr>
-Languages
+# Tech Stacks
+
+## Languages
 
 <img src="https://img.shields.io/badge/-C%2FC%2B%2B-brightgreen"/> <img src="https://img.shields.io/badge/-Java-red"/>
 <img src="https://img.shields.io/badge/-Python-blue"/>
@@ -19,25 +19,25 @@ Languages
 <img src="https://img.shields.io/badge/-SQL-yellowgreen"/>
 
 
-Frameworks
+## Frameworks
 
 <img src="https://img.shields.io/badge/-Spring%20Boot-green"/> <img src="https://img.shields.io/badge/-JPA-lightgrey"/>
 <img src="https://img.shields.io/badge/-Spring%20Security-green"/>
 
 
-Tools
+## Tools
 
 <img src="https://img.shields.io/badge/-VS%20Code-blue"/> <img src="https://img.shields.io/badge/-IntelliJ-red"/>
 <img src="https://img.shields.io/badge/-Xcode-black"/>
 <img src="https://img.shields.io/badge/-MySQL-orange"/>
 
-Operating System
+##Operating System
 
 <img src="https://img.shields.io/badge/-MacOS(MacBook pro 14)-black"/>
 
     
 
-Studying
+## Studying
  - Spring Security
  - Spring Batch
  - Ubuntu(Linux)
