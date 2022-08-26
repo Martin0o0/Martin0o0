@@ -32,7 +32,7 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 ## Tools
 
 <img src="https://img.shields.io/badge/-VS%20Code-blue"/> <img src="https://img.shields.io/badge/-IntelliJ-red"/>
-<img src="https://img.shields.io/badge/-Xcode-black"/>
+<img src="https://img.shields.io/badge/-CLion-black"/>
 <img src="https://img.shields.io/badge/-MySQL-orange"/>
 <img src="https://img.shields.io/badge/-H2-grey"/>
 <img src="https://img.shields.io/badge/-Redis-red"/>
@@ -48,4 +48,3 @@ Currently, I am studying computer science at Kyung Hee University and studying h
  - Spring Batch
  - Ubuntu (Linux) 
  - Docker
- - Swift 5.3 / SwiftUI / Xcode (IOS)
