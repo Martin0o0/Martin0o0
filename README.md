@@ -15,7 +15,7 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 <img src="https://img.shields.io/badge/-Python-blue"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey"/>
 <img src="https://img.shields.io/badge/-CSS-orange"/>
-<img src="https://img.shields.io/badge/-JS-yellow"/>
+<img src="https://img.shields.io/badge/-JS(ES5)-yellow"/>
 <img src="https://img.shields.io/badge/-SQL-yellowgreen"/>
 
 
