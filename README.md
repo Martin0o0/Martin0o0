@@ -46,6 +46,6 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 ## Studying
  - Spring Security 
  - Spring Batch
- - Ubuntu (Linux)
+ - Ubuntu (Linux) 
  - Docker
- 
+ - Swift 5.3 / SwiftUI / Xcode (IOS)
