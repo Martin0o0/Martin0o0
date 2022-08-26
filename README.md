@@ -24,7 +24,7 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 <img src="https://img.shields.io/badge/-Spring%20Boot-green"/> <img src="https://img.shields.io/badge/-JPA-lightgrey"/>
 <img src="https://img.shields.io/badge/-Spring%20Security-green"/>
 <img src="https://img.shields.io/badge/-Junit5-yellowgreen"/>
-<img src="https://img.shields.io/badge/-Node.JS-yellowgreen"/>
+<img src="https://img.shields.io/badge/-Node.JS/Express-yellowgreen"/>
 
 ## View-Template-Engine
 
