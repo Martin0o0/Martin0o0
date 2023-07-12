@@ -8,8 +8,5 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 
 ## Studying Now
  - Spring Security
- - Elastic Searh
+ - AWS
  - Kafka 
- - K8s
- - Ubuntu (Linux) 
- - Docker
