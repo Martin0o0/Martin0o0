@@ -9,6 +9,6 @@ My name is Hyunyeong-Choi, and i'm using Martin as my nickname.
 Currently, I am studying computer science at Kyung Hee University and studying hard to become a backend developer.
 
 ## Studying Now
- - Spring Security
- - AWS
+ - Spring Batch
+ - eGovFrame[전자정부표준프레임워크]
  - Kafka 
