@@ -10,5 +10,6 @@ Currently, I am studying computer science at Kyung Hee University and studying h
 
 ## Studying Now
  - Spring Batch
+ - Spring WebFlux
+ - Spring Cloud
  - eGovFrame[전자정부표준프레임워크]
- - Kafka 
