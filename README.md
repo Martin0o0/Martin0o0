@@ -9,7 +9,8 @@ My name is Hyunyeong-Choi, and i'm using Martin as my nickname.
 Currently, I am studying computer science at Kyung Hee University and studying hard to become a backend developer.
 
 ## Studying Now
- - Spring Batch
- - Spring WebFlux
- - Spring Cloud
- - eGovFrame[전자정부표준프레임워크]
+ - Spring Batch 
+ - L2/L3 Network Device(HPE, CISCO) Management with SNMPv2c/v3
+ - RealTime Full-Duplex with HttpSession/WebSocketSession Management
+ - MistServer to Vod Streaming Service (RealTime Streaming)
+ - eGovFrame [Main]
