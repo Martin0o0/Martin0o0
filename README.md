@@ -15,4 +15,4 @@ These days, I'm developing network integration management technology by working 
  - L2/L3 Network Device(HPE, CISCO) Management with SNMPv2c/v3
  - RealTime Full-Duplex with HttpSession/WebSocketSession Management
  - MistServer to Vod Streaming Service (RealTime Streaming)
- - eGovFrame [Main]
+ - eGovFrame [Main Stack]
