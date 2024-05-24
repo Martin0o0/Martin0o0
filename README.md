@@ -11,8 +11,8 @@ Currently, I am studying computer science at Kyung Hee University[Senior] and cu
 These days, I'm developing network integration management technology by working with L2/L3 devices and SNMP for building NMS systems.
 
 ## Studying Now
- - Spring Batch / Cloud 
+ - Spring Cloud
  - L2/L3 Network Device(HPE, CISCO) Management with SNMPv2c/v3
- - RealTime Full-Duplex with HttpSession/WebSocketSession Management
- - MistServer to Vod Streaming Service (RealTime Streaming)
- - eGovFrame [Main Stack]
+ - WebSocket Full-Duplex with Session Management 
+ - MistServer to Service Vod Streaming / Real Time Streaming 
+ - eGovFrame v4.2 [Main Stack]
