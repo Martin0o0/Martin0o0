@@ -6,9 +6,9 @@ Welcome to Martin GitHub.
 
 My name is Hyunyeong-Choi, and i'm using Martin as my nickname.
 
-Currently, I am studying computer science at Kyung Hee University[Senior] and currently working as an intern for software engineer at NSonesoft. 
+Currently, I am studying computer science at Kyung Hee University[Senior] and currently working for software engineer at NSonesoft. 
 
-These days, I'm developing network integration management technology by working with L2/L3 devices and SNMP for building NMS systems.
+These days, I'm developing network integration management technology by working with Multi-Layer devices and SNMP for building NMS systems.
 
 ## Studying Now
  - Spring Cloud
