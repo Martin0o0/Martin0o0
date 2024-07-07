@@ -13,6 +13,5 @@ These days, I'm developing network integration management technology by working 
 ## Studying Now
  - Spring Cloud
  - L2/L3 Network Device(HPE, CISCO) Management with SNMPv2c/v3
- - WebSocket Full-Duplex with Session Management 
  - MistServer to Service Vod Streaming / Real Time Streaming 
  - eGovFrame v4.2 [Main Stack]
