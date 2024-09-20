@@ -11,14 +11,6 @@ Currently, I am studying computer science at Kyung Hee University[Senior] and cu
 These days, I'm developing network integration management technology by working with Multi-Layer devices and SNMP for building NMS systems.
 
 
-
-## Studying Now
- - Spring Cloud
- - L2/L3 Network Device(HPE, CISCO) Management with SNMPv2c/v3
- - MistServer to Service Vod Streaming / Real Time Streaming 
- - eGovFrame v4.2 [Main Stack]
-
-
 ## Experience
 - Kyunghee High School SW Convergence Mentoring Program Mentor | September 13, 2022 – July 13, 2024
 - NSonesoft Intern | December 22, 2023 – June 21, 2024
